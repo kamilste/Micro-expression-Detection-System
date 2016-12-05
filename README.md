@@ -13,6 +13,6 @@ How to run
 	1.Open ‘mainScript.m’
 	2.Specify the video and its type in line 9.
 	3.Press F5 (make sure the cursor is placed in editor window) or press Run within the program.
-
+	
 For additional files
 	- All the processes specified in “how to run” apply to other scripts such as ‘faceDetectror.m’ and ‘opticalFlow.m’.
